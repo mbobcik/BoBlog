@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is who am I and not who I am not.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey, jmenuju se Martin a tohle je můj BlOgÍsEk. Mám následující vlastnosti a zájmy:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Studuju informatiku na FIT VUT v Brně. #prestiž++
+- Umím trochu vrzat na basu, ale i tak mě vzali do skupiny.
+- Mluvím Moravským nářečím a ani si to neuvědomuju. Tož si rožni a hen se najez erteplí.
+- Rád čtu.
 
-What else do you need?
+... A hromadu dalších, ale je zbytečné je všechny vypisovat :) 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Abych byl upřímný, tak na tohle si moc nevzpomínám. Co kdyby jsi si radši přečetl něco hezkého, nebo mrknul na fajn filmík.
