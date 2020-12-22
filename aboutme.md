@@ -9,10 +9,10 @@ Hey, jmenuju se Martin a tohle je můj BlOgÍsEk. Mám následující vlastnosti
 - Studuju informatiku na FIT VUT v Brně. #prestiž++
 - Umím trochu vrzat na basu, ale i tak mě vzali do skupiny.
 - Mluvím Moravským nářečím a ani si to neuvědomuju. Tož si rožni a hen se najez erteplí.
-- Rád čtu.
+- Rád čtu scifi, fantasy, a od té doby, co jsem si zlomil nohu, tak také o vztazích mužů a žen.
 
 ... A hromadu dalších, ale je zbytečné je všechny vypisovat :) 
 
 ### My story
 
-Abych byl upřímný, tak na tohle si moc nevzpomínám. Co kdyby jsi si radši přečetl něco hezkého, nebo mrknul na fajn filmík.
+Abych byl upřímný, tak na tohle si moc nevzpomínám. Co kdyby sis radši přečetl něco hezkého, nebo mrknul na fajn filmík.
