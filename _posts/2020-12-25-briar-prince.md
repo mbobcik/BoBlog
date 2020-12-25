@@ -6,7 +6,7 @@ readtime: true
 gh-repo: mbobcik/BoBlog
 gh-badge: [follow]
 tags: [rpg, překlad, onepagerpg]
-cover-img: /assets/img/palace.png
+cover-img: assets/img/palace.jpg
 ---
 
 Začátkem roku 2020 jsem se znovu začal zajímat o hry na hrdiny typu Dungeons and Dragons a Dračí doupě.
