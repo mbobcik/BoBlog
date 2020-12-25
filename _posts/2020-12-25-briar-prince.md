@@ -13,17 +13,17 @@ thumbnail-img: assets/img/palace.jpg
 Začátkem roku 2020 jsem se znovu začal zajímat o hry na hrdiny typu Dungeons and Dragons a Dračí doupě.
 Potřeboval jsem něco o dost jednoduššího, aby se to dalo vysvětlit a hrát s mladší sestrou. A tak jsem v zákoutích internetu narazil na hry s označením __OnePageRPG__.
 Tedy hry na hrdiny, jejichž pravidla se vlezou na jednu stránku A4.
-Takže žádné titěrné fonty, krypticky strucné fráze ani komplexní matematika.
+Takže žádné titěrné fonty, krypticky stručné fráze ani komplexní matematika.
 
 ## Užitečné vlastnosti
 
-- Pravidla tak jednoduchá, že si každý hráč zapamatuje celý systém dříve než dohraje první hru.
+- Pravidla tak jednoduchá, že si každý hráč zapamatuje celý systém dříve, než dohraje první hru.
 
-- Rychlý a jednoduchý princip rozhodnutí většiny herních událostí. Ať se jedná o máchání mečem, nebo hackovánní počítače.
+- Rychlý a jednoduchý princip rozhodnutí většiny herních událostí. Ať se jedná o máchání mečem, nebo hackování počítače.
 
 - Tvorba postavy pod 60 vteřin
 
-- Tužka, papír, šestistranná kostka - minimum pro hru. Takže můžeš hrát kdekoliv a kdykoliv.
+- Tužka, papír, šestistranná kostka – minimum pro hru. Takže můžeš hrát kdekoliv a kdykoliv.
 
 
 Přesně tohle jsem si představoval pro věčně znuděnou sestru, když ji mám na starosti.
@@ -36,10 +36,10 @@ Můj starý známý [Reddit](https://www.reddit.com/) nezradil. Na nějakém tom
 ## Palace of the Briar Prince
 Na této hře mě zaujalo nejen, že je to dungeon crawler, ale hlavně je do ní zakomponováno i kreslení.
 Než hra začne, každý z hráčů dostane několik kartiček, nebo papírů, a na něj podle pravidel kreslí komnaty paláce.
-Každý hráč má vylosované téma, třeba hudba, oheň, stromy, stroje.., které musí být v každém z jeho pokojů. 
+Každý hráč má vylosované téma, třeba hudba, oheň, stromy, stroje..., které musí být v každém z jeho pokojů. 
 Dále je v každém pokoji nějaký herní prvek, past, poklad, protivníci.
 
-Po kreslící části následuje průchod palácem.
+Po kreslící části následuje průchod palácem - dungeon crawling.
 Všechny karty s komnatami se zamíchají, Pán Jeskyně náhodně vytahuje následující pokoje a hráči se potýkají s jejich obsahem.
 
 Každý hráč má svou postavu a ta má nějaký výcvik a nějaké výhody. 
@@ -59,7 +59,7 @@ Pokud ale na nějakou přijdete, a napadne vás vhodné řešení, můžete mi h
 Nezapomeňte však na jednoduchost pravidel.
 
 ## Ke stažení
-Takže, abych se dostal k tomu co jsem vlastně na začátku neslíbil.
+Takže, abych se dostal k tomu, co jsem vlastně na začátku neslíbil.
 Bylo mi líto, že ten můj překlad jen leží někde na cloudovém uložišti, a tak jsem se rozhodl dát ho k dispozici.
 Nevěděl jsem kam a jak, tak jsem si k tomuto účelu vytvořil tento web.
 Na vrabce s kanonem.
