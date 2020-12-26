@@ -220,6 +220,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - oldREADME.md
   - screenshot.png
   - docs/
 

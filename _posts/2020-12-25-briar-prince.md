@@ -58,6 +58,8 @@ Nechci vám hru kazit, a každý si může najít vlastní :) .
 Pokud ale na nějakou přijdete, a napadne vás vhodné řešení, můžete mi ho poslat na email.
 Nezapomeňte však na jednoduchost pravidel.
 
+Cílem hry je najít v paláci to, co hráčova postava hledá ať už svého odvěkého soka, překrásnou princeznu, nebo jiskřivý poklad, a dostat se s tím ven. Aspoň to je v pravidlech, hlavním cílem je samozřejmě pobavit se, a zastrašit nudu. Tohle hra splňuje na jedničku.
+
 ## Ke stažení
 Takže, abych se dostal k tomu, co jsem vlastně na začátku neslíbil.
 Bylo mi líto, že ten můj překlad jen leží někde na cloudovém uložišti, a tak jsem se rozhodl dát ho k dispozici.
