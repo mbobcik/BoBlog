@@ -34,6 +34,8 @@ nebo na ni vůbec neklikne.
 # Možnosti
 Zvyk ze školy velí si nejdříve udělat rešerši dostupných řešení.
 V konfiguračním souboru Jekyll témy už jich pár má přípravu.
+Ze zajímavosti jsem ještě přidal Webmentions, což je taky taková forma komentářů.
+Ty ale implementovat nebudu, je to moc práce a nepřijde mi to tak užitečné :)
 
 ## Disqus
 
