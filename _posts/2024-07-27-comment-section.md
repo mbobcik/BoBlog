@@ -26,7 +26,14 @@ V neposlední řadě je zde spíš omezení.
 A to že BoBlog je staticky generovaný [Jekyll](https://jekyllrb.com/) web.
 Jak moc je tohle omezení důležité nevím, ale určitě je na to potřeba myslet při výběru.
 
+Jo, ještě mě napadá: jakékoliv reklamy třetích stran jsou velké \[nou-nou\].
+Beztak tady zase takový provoz nemám, aby to případnému poskytovateli zaplatilo náklady.
+Pokud už sem ale někdo zavítá, tak vsadím boty, že má buď zapnutou nějakou formu blokování reklamy,
+nebo na ni vůbec neklikne.
+
 # Možnosti
+Zvyk ze školy velí si nejdříve udělat rešerši dostupných řešení.
+V konfiguračním souboru Jekyll témy už jich pár má přípravu.
 
 ## Disqus
 
