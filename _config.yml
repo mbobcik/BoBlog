@@ -293,7 +293,7 @@ exclude:
   - oldREADME.md
   - screenshot.png
   - docs/
-  - _posts/2020-02-28-sample-markdown.md
+  - _drafts/
 
 plugins:
   - jekyll-paginate

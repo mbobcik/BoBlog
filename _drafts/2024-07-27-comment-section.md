@@ -38,13 +38,21 @@ Ze zajímavosti jsem ještě přidal Webmentions, což je taky taková forma kom
 Ty ale implementovat nebudu, je to moc práce a nepřijde mi to tak užitečné :)
 
 ## Disqus
+[Disqus](https://disqus.com/) je relativně profesionální platforma, která prej umožňuje monetizaci na internetu bez cookies. Nabízí real-time funkcionalitu jako hlasování o jednotlivých komentářích (upvoty a downwoty na Redditu), vlákna odpovědí a podobné moderní vymoženosti. Jako plus určitě beru možnost přidání obrázků a videí do obsahu komentáře. Další výhodou je téměž automatická moderace obsahu a filtry spamu. Na současném internetu je mnoho darmošlapů, kteří rádi škodí všemu hezkému.
+
+Kromě jiného je Disqus sice zadarmo, ale s reklamami. Což je proti mým požadavkům. Za 12$ nebo 272 Korun Českých bych se sice mohl reklam zbavit, ale to už je ukrutně velká částka za malou featuru na ještě menším webu. 
+
+Celkově mi Disqus přijde jako "s kanonem na vrabce". Má příliš mnoho fukncí, které malé weby těžko využijí. Ten můj určitě ne.
 
 ## CommentBox
 
-## Utterances
-
 ## Staticman
+
+## Utterances
 
 ## Giscus
 
+## Mastodon posty
+
 ## Webmetions
+

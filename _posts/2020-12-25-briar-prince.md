@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vřesový princ
-subtitle: Překlad jedné hry na hrdiny
+subtitle: Překlad stolní hry na hrdiny
 readtime: true
 gh-repo: mbobcik/BoBlog
 gh-badge: [follow]
