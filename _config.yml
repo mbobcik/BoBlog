@@ -294,6 +294,7 @@ exclude:
   - screenshot.png
   - docs/
   - _drafts/
+  - _posts/2020-02-28-sample-markdown.md
 
 plugins:
   - jekyll-paginate
