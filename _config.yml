@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: BoBlog
+title: Bobhome
 
 # Your name to show in the footer
 author: Martin Bobčík
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mbobcik.github.io"
+url-pretty: "bobhome.cz"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
