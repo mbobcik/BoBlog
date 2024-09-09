@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Všechno nejlepší 
 subtitle: k tvým 27. narozeninám
 ---
