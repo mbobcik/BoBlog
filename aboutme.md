@@ -14,5 +14,4 @@ Hey, jmenuju se Martin a tohle je můj digitální domov. Mám následující vl
 - Zajímám se o soukromí na internetu, počítačové hry a celkově elektroniku.
 
 
-
 ... A hromadu dalších, ale je zbytečné je všechny vypisovat :) 

@@ -67,6 +67,6 @@ Nevěděl jsem kam a jak, tak jsem si k tomuto účelu vytvořil tento web.
 Na vrabce s kanonem.
 Snad tohle nebude můj první, a také poslední příspěvek zde, a dostanu se k dalším překladům, nebo myšlenkám hodným rozebrání. 
 
-Stačí [stáhnout]({{ site.url }}/BoBlog/download/OnePageRPG_-_Vřesový_Princ.pdf), vytisknout a hrát :)
+Stačí [stáhnout]({{ site.url }}/download/OnePageRPG_-_Vřesový_Princ.pdf), vytisknout a hrát :)
 
 

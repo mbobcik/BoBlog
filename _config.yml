@@ -21,6 +21,8 @@ author: Martin Bobčík
 
 navbar-links:
   About Me: "aboutme"
+  Slash pages:
+    - /someday: "someday"  
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
