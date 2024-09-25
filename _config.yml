@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Slash pages:
     - /someday: "someday"  
+  Stavební deník: "stavebniDenik"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -267,6 +268,10 @@ paginate: 5
 
 kramdown:
   input: GFM
+
+collections:
+  stavebniDenik:
+    output: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
