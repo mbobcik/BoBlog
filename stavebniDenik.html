@@ -7,10 +7,9 @@ title: 'Stavební deník'
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in stavebniDenik %}
+  {% for post in stavebniDenik reversed %}
   <li class="post-preview">
     <article>
-
       {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
@@ -50,7 +49,7 @@ title: 'Stavební deník'
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        Date {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
