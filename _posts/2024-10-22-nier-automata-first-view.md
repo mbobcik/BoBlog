@@ -10,11 +10,12 @@ cover-img: assets/img/NieR-Automata-Cover.jpg
 thumbnail-img: assets/img/Nier-Automata-thumb.png
 
 ---
-{: .box-note}
-**Note:** OK, this is not a review, but only my random flow of thoughts on the game.
 
 I recently finished first playthrough of the [NieR: Automata](https://store.steampowered.com/app/524220/NieRAutomata/) game.
 It was recommended to me in some YouTube video I don't really remember (probably [this one](https://www.youtube.com/watch?v=lpKBMqwNqMw)), it said I will really appreciate the game and its story. And that I definitely have to replay it again after I finish it once.
+
+{: .box-note}
+**Note:** OK, this is not a review, but only my random flow of thoughts on the game.
 
 ![9S and 2B - Two main protagonists](/assets/img/nier-img1.jpg)
 
