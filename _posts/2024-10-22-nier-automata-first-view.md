@@ -14,13 +14,13 @@ thumbnail-img: assets/img/Nier-Automata-thumb.png
 **Note:** OK, this is not a review, but only my random flow of thoughts on the game.
 
 I recently finished first playthrough of the [NieR: Automata](https://store.steampowered.com/app/524220/NieRAutomata/) game.
-It was recomended to me in some YouTube video I dont really remember (probably [this one](https://www.youtube.com/watch?v=lpKBMqwNqMw)), it said I will really appreciate the game and its story. And that I definitely have to replay it again after I finish it once.
+It was recommended to me in some YouTube video I don't really remember (probably [this one](https://www.youtube.com/watch?v=lpKBMqwNqMw)), it said I will really appreciate the game and its story. And that I definitely have to replay it again after I finish it once.
 
 ![9S and 2B - Two main protagonists](/assets/img/nier-img1.jpg)
 
 So here I am, 14 hours of dad life in, on the brink of replaying, and really unsure if I enjoyed the first ride. By 14 dad life hours I mean it took me almost 5 weeks of on and off playing just this game.
 
-To articulate my feeling I tried to open [Metacritic](https://www.metacritic.com/game/nier-automata/) curious if I find some same feelers. Among numerous "ten-out-of-tens" I did find few. 
+To articulate my feeling, I tried to open [Metacritic](https://www.metacritic.com/game/nier-automata/) curious if I find some same feelers. Among numerous "ten-out-of-tens" I did find few. 
 
 > A good game, but VERY overrated. While polished and enjoyable, has many flaws. Huge lack of enemy variety, too few bosses, combat is clean but gets repetitive, the story is predictable if you are not under 14yo, and I couldn't care for any of the main characters. ...
 > 
@@ -36,13 +36,13 @@ I see where NieR: Automata has value, I really enjoyed some places and some aspe
 >
 > [ioxx](https://www.metacritic.com/user/ioxx/)
 
-Sure I know few people who would love it, maybe even I would love it when younger. But for dad (with rather conservative wife :)) ...
+Sure, I know few people who would love it, maybe even I would love it when younger. But for dad (with rather conservative wife :)) ...
 
 The story can be maybe made up for with the replays, but what really irritated me is how is the story told sometimes. By monologues of the boss during heat of the battle. I was fighting both for life of 2B and to catch some context.
 
 ![Boss fight with monologue](/assets/img/nier-fight.jpg)
 
-Alas, do not raise your pitchfork, I will replay it and finish the other main endings of the game. Maybe it will reveal its true potential, and I will join the lovers. For today tho, I stand dissapointed.
+Alas, do not raise your pitchfork, I will replay it and finish the other main endings of the game. Maybe it will reveal its true potential, and I will join the lovers. For today tho, I stand disappointed.
 
 {: .box-note}
 **Want to comment?** Since I do not have comments implemented on the site, please reach out to me via some of the socials in the footer.
