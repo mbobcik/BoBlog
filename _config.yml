@@ -24,7 +24,7 @@ navbar-links:
   SoundBoard: "https://soundboardio.com/app/mbobcik/superbobo/"
   Slash pages:
     - /someday: "someday"  
-  About Me: "aboutme"
+    - /aboutme: "aboutme"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
