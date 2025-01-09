@@ -6,7 +6,7 @@ readtime: true
 gh-repo: mbobcik/BoBlog
 gh-badge: [follow]
 tags: [games, english]
-cover-img: assets/img/NieR-Automata-Cover.jpg
+cover-img: assets/img/nier-cover-2.jpg
 thumbnail-img: assets/img/Nier-Automata-thumb.png
 ---
 
