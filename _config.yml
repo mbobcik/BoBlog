@@ -25,6 +25,7 @@ navbar-links:
   Slash pages:
     - /someday: "someday"  
     - /aboutme: "aboutme"
+    - /blogroll: "blogroll"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -303,6 +304,7 @@ exclude:
   - docs/
   - _drafts/
   - _posts/2020-02-28-sample-markdown.md
+  - braska.md
 
 plugins:
   - jekyll-paginate
