@@ -30,7 +30,7 @@ Even side-quests reveal the story.
 In some way, it is more of an artwork then other games, I would say.
 
 I am still thinking about why I am not as excited about the game as everybody else.
-It might be because I don't care that much for the story as the main characters, who on the other hand care too much.
+It might be because I don't care that much for the story as the main characters, who on the other hand care a little bit  too much.
 This time I am convinced I will finish all other story-relevant ending.
 
 Sorry I am that negative about the game, I don't know how to articulate it better :).
