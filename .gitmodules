@@ -1,0 +1,4 @@
+[submodule "_data/soundboardio-superbobo"]
+	path = _data/soundboardio-superbobo
+	url = https://github.com/mbobcik/soundboardio-superbobo.git
+	branch = master
