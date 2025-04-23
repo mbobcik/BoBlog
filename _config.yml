@@ -309,6 +309,9 @@ exclude:
   - _posts/2020-02-28-sample-markdown.md
   - braska.md
 
+include:
+  - _data/soundboardio-superbobo/sounds
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
