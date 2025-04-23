@@ -4,6 +4,8 @@ title: About me
 subtitle: This is who am I and not who I am not.
 ---
 
+{: .box-note} English version below
+
 Ahoj, jmenuju se Martin a tohle je můj digitální domov. Mám následující vlastnosti a zájmy:
 
 - Moje alma mater je [FIT VUT](https://www.fit.vut.cz/.cs) v Brně. #prestiž++
