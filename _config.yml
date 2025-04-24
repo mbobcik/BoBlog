@@ -310,7 +310,7 @@ exclude:
   - braska.md
 
 include:
-  - _data/soundboardio-superbobo/sounds
+  - "soundboardio-superbobo/sounds"
 
 plugins:
   - jekyll-paginate
