@@ -5,6 +5,8 @@ jobs:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
+      - name: Environment
+        run: printenv && pwd
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
@@ -18,6 +20,8 @@ jobs:
         run: |
           echo "---" > _config_ci.yml
           echo "baseurl: ${{ steps.configure-pages.outputs.base_path }}" >> _config_ci.yml
+      - name: Copy Soundboard
+        run: cp -a ./_data/soundboardio-superbobo/sounds/. ./soundboard 
       - name: Build site
         env:
           JEKYLL_ENV: production
