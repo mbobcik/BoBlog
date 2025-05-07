@@ -24,8 +24,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          submodules: 'true'
+          show-progress: 'true'
       - name: Environment
-        run: printenv && pwd && ls
+        run: |
+          printenv
+          pwd
+          tree
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
