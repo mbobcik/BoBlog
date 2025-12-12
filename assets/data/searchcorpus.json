@@ -20,7 +20,7 @@ layout: null
 "date"     : "{{ page.date | date: '%B %e, %Y' | default: "January 1, 1970" }}" 
 }
 {% endif %}{% endfor %} 
-{% for post in stavebniDenik %}
+{% for post in site.stavebniDenik %}
 ,{
     "title"    : "{% if post.title != "" %}{{ post.title | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", 
     "desc"     : "{% if post.title != "" %}{{ post.title | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", 
