@@ -16,6 +16,6 @@ A tady si je ukládám.
 
 
 # Nudle nezbedná
-Nudlo, Nudlo, 
-Nezlob už mě pod nosíkem,
-Nebo tě utřu kapesníkem!
+Nudlo, Nudlo, <br/>
+Nezlob už mě pod nosíkem,<br/>
+Nebo tě utřu kapesníkem!<br/>
