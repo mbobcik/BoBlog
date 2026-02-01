@@ -10,6 +10,7 @@ tags: [poezie]
 Básnička, kterou jsem dceři vymyslel k příležitosti každodenního čištění zubů. 
 Zubní pasta na sobě měla krásný obrázek víly, a tak jsme si vždycky chodili čistit zoubky s vílou. 
 "Pojď, víla už čeká" :)
+
 Jméno dcerky jsem zaměnil za "holčičku". 
 
 
