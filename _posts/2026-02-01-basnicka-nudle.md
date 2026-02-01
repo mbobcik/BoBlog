@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Básnička: Nudle nezbedná"
-gh-repo: mbobcik/BoBlog
-gh-badge: [follow]
 tags: [poezie]
 ---
 

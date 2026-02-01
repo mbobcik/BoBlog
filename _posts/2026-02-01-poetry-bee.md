@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Poem: Bee"
-gh-repo: mbobcik/BoBlog
-gh-badge: [follow]
 tags: [poezie, english]
 ---
 
