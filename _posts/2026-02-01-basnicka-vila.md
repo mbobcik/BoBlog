@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Básnička: Víla
+title: "Básnička: Víla"
 gh-repo: mbobcik/BoBlog
 gh-badge: [follow]
 tags: [poezie]
